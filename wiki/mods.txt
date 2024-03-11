@@ -1,0 +1,194 @@
+AntiGhost
+by Giselbaer
+1.18.2-fabric0.47.10-1.1.4
+
+Better Mount HUD
+by Lortseam
+1.1.4
+
+BetterF3
+by TreyRuffy
+3.0.0
+
+CIT Resewn
+by shsupercm
+1.1.1+1.18.2
+
+CTM Optifine - Fabric
+by Aeldit
+0.5.3+1.18.x
+
+Chat Heads
+by dzwdz
+0.6.0
+
+Cloth Config API
+by shedaniel
+6.5.102
+
+Clumps
+by jaredlll08
+8.0.0+17
+
+Concurrent Chunk Management Engine (Fabric)
+by ishland
+0.2.0+alpha.7.40+1.18.2
+
+CraftPresence
+by CDAGaming
+2.2.6+1.18.2
+
+Craftify
+by ThatGravyBoat
+1.12.0
+
+Debugify
+by isxander
+1.11.0-fabric
+
+Dynamic FPS
+by juliand665
+3.3.2
+
+Eating Animation
+by theoness1
+1.8
+
+Enchant Icons
+by CountXD
+v1.2
+
+Enhanced Block Entities
+by FoundationGames
+0.7.1+1.18.2
+
+Entity Culling
+by tr7zw
+1.6.1-1.18.2
+
+Even Better Enchants
+by mythitorium
+1-18
+
+Exordium
+by tr7zw
+1.0.1-1.18
+
+Fabric API
+by modmuss50
+0.76.0+1.18.2
+
+Fabric Language Kotlin
+by modmuss50
+1.10.17+kotlin.1.9.22
+
+FerriteCore
+by malte0811
+4.2.1-fabric
+
+Fresh Animations
+by FreshLX
+1.7
+
+Icons
+by
+1.8pre2
+
+ImmediatelyFast
+by RaphiMC
+1.1.12+1.18.2
+
+Indium
+by comp500
+1.0.7+mc1.18.2
+
+Iris Shaders
+by coderbot
+1.6.11+1.18.2
+
+JourneyMap
+by mysticdrew
+1.18.2-5.9.7-fabric
+
+JourneyMap Integration
+by frankV
+jmi-fabric-1.18.2-0.13-43
+
+Just Enough Items
+by mezz
+10.2.1.1002
+
+LazyDFU
+by astei
+0.1.2
+
+Litematica
+0.11.6
+
+Lithium
+by jellysquid3
+mc1.18.2-0.10.3
+
+MaLiLib
+by masa
+0.12.1
+
+MagicLib
+by hendrix-shen
+0.7.398
+
+Memory Leak Fix
+by FX
+v1.1.2
+
+Mod Menu
+by
+3.2.5
+
+ModernFix
+by embeddedt
+5.9.2+mc1.18.2
+
+More Culling
+by FX
+v0.8.2-1.18
+
+Reese's Sodium Options
+by FlashyReese
+mc1.18.2-1.6.3
+
+ReplayMod
+by Johni0702
+1.18.2-2.6.14
+
+Smooth Boot (Fabric)
+by UltimateBoomer
+1.18.2-1.7.0
+
+Sodium
+by jellysquid3
+mc1.18.2-0.4.1
+
+Sodium Extra
+by FlashyReese
+mc1.18.2-0.4.18
+
+Starlight (Fabric)
+by spottedleaf
+1.0.2+1.18.2
+
+Subtly Glowing Ores
+by robotkoer
+1.18-compat
+
+Translations for Sodium
+by robotkoer
+v1.11.0
+
+VanillaXBR
+by misterk7_-
+0.20
+
+Very Many Players (Fabric)
+by ishland
+0.2.0+beta.3.126+1.18.2
